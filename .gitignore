@@ -1,3 +1,6 @@
 
-DCMoterPara.asv
+*.asv
 *.slxc
+*.c
+slprj
+*_grt_rtw
